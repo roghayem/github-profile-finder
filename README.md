@@ -6,7 +6,7 @@ A simple and responsive GitHub Profile Finder built using HTML, CSS, and JavaScr
 
 ## 🌟 Live Demo
 
-👉 View Live Demo: [Add Your GitHub Pages Link Here]
+👉 View Live Demo: [https://roghayem.github.io/github-profile-finder/]
 
 ---
 
